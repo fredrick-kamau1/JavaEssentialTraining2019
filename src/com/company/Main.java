@@ -15,6 +15,8 @@ public class Main {
         int intValue = 42;
         var fromInt = Integer.toString(intValue);
         System.out.println(fromInt);
+        System.out.println(intValue);
+        System.out.println("There is hope to learn");
 
         boolean boolValue = true;
         var fromBool = Boolean.toString(boolValue);
